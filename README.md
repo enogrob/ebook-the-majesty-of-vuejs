@@ -16,10 +16,13 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
+Introduction
+[x] About Vue.js
+[x] Welcome
 1: INSTALL VUE.JS
-[ ] Standalone version
-[ ] Downloading using NPM
-[ ] Downloading using Bower
+[x] Standalone version
+[x] Downloading using NPM
+[x] Downloading using Bower
 2: GETTING STARTED
 [ ] Hello Vue
 3: A FLAVOR OF DIRECTIVES
